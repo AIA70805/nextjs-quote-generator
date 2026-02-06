@@ -1,6 +1,6 @@
 # Next.js Quote Generator
 
-A simple Next.js Random Quote Generator app with TypeScript and Tailwind CSS.
+A simple Next.js Random Quote Generator app with TypeScript and Tailwind CSS. Managed by App Monitor.
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
