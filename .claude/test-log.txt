@@ -1,3 +1,4 @@
 Webhook test: 2026-02-06T02:14:34Z
 Webhook verified: 2026-02-06T02:18:11Z
 E2E test: desktop banner fix verified
+Live test: user watching frontend
